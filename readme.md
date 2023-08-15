@@ -27,3 +27,8 @@ npm install moment
 ```
 import moment from "moment"
 ```
+
+### para executar o código
+```
+node src/index.js
+```

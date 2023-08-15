@@ -18,7 +18,7 @@ npm init -y
 npm install moment
 ```
 
-### adicionar a propriedade _type_ e definir o valor como _module_ para utilizar os modulos ES6
+### adicionar ao package.json a propriedade _type_ e definir o valor como _module_ para utilizar os modulos ES6
 ```
 "type": "module"
 ```
